@@ -7,8 +7,8 @@ When comparing each city type against each other we find that on average the Rur
 We find that there are significantly more drivers in the Urban cities and those cities contribute over half of all revenue. In the Rural and Suburban cities each driver is responsible for 1.6 and 1.2 rides each respectively.  In Urban cities that number drops to .67 rides.   
 
 
-| Total Rides | Total Drivers | Total Fares | Average Fare per Ride | Average Fare per Driver |
-| --- | --- | --- | --- | --- |
+| City Type | Total Rides | Total Drivers | Total Fares | Average Fare per Ride | Average Fare per Driver |
+| --- | --- | --- | --- | --- | --- |
 | Rural |	125 |	78 |	$4,327.93 |	$34.62 |	$55.49 |
 | Suburban |	625	| 490 |	$19,356.33 |	$30.97 |	$39.50 |
 | Urban |	1,625 |	2,405 |	$39,854.38 |	$24.53 |	$16.57 |
